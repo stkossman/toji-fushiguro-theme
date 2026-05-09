@@ -3,11 +3,35 @@
   "displayName": "Toji Fushiguro",
   "description": "Theme inspired by Toji Fushiguro",
   "version": "0.0.1",
+  "publisher": "Kosman",
   "engines": {
     "vscode": "^1.118.0"
   },
   "categories": [
     "Themes"
+  ],
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stkossman/toji-fushiguro-theme"
+  },
+  "keywords": [
+    "theme",
+    "toji fushiguro",
+    "vscode theme",
+    "dark theme",
+    "light theme",
+    "japanese anime",
+    "manga",
+    "color scheme",
+    "syntax highlighting",
+    "programming theme",
+    "code editor theme",
+    "visual studio code theme",
+    "dark mode",
+    "light mode",
+    "custom theme",
+    "developer theme"
   ],
   "contributes": {
     "themes": [
