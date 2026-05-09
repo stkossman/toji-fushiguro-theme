@@ -1,0 +1,26 @@
+{
+  "name": "toji-fushiguro-theme",
+  "displayName": "Toji Fushiguro",
+  "description": "Theme inspired by Toji Fushiguro",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.118.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Toji Fushiguro Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Toji Fushiguro Theme-color-theme.json"
+      },
+      {
+        "label": "Toji Fushiguro Light",
+        "uiTheme": "vs",
+        "path": "./themes/Toji Fushiguro Light-color-theme.json"
+      }
+    ]
+  }
+}
