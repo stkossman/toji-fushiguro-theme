@@ -11,6 +11,8 @@ Inspired by the Sorcerer Killer - no Cursed Energy, just raw technique.
 
 A minimalist VS Code color theme built around the aesthetic of **Toji Fushiguro** from *Jujutsu Kaisen*. Designed for prolonged focus, it abandons distracting neon colors in favor of a muted, pragmatic palette.
 
+The extension is available in [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Kossman.toji-fushiguro-theme)
+
 <div align="center">
 <h3>Dark</h3>
 <img src="./assets/dark.png" width="1024" />
